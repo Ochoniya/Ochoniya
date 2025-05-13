@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ochoniya
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Excel,SQl & a bit of Python
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m skilled at Excel,SQl &  Python
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ochoniyaaromeaduku@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: ...
